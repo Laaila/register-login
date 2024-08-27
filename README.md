@@ -1,3 +1,6 @@
+**Note**
+As an only frontend developer I use a static json file to to this task.
+
 # My Application
 This is a simple web application that allows users to register and log in using a local JSON file as the data source.
 
